@@ -1,0 +1,17 @@
+Git configuration:
+	> git config --global user.name "Ashray"
+	> git config --global user.email "vbashray@gmail.com"
+	> git config --list
+
+Git starting repository
+	> git init
+	> git status
+
+Git staging files
+	> git add Commands.txt
+	> git add .
+	> git add Demo.txt
+	> git rm --cached Demo.txt
+	> git show
+	> git log
+
